@@ -1,0 +1,1 @@
+Dune, Frank, 1965, 5.0, 500/n/usr/local/bin/python3 /Users/shekerahhenderson/Downloads/py-proj-1-2/starter/part-5/part_5.py, /usr/local/bin/python3 /Users/shekerahhenderson/Downloads/py-proj-1-2/starter/part-5/part_5.py, 2023, 5.0, 386/nQueen Charalotte, Julain, 2023, 5.0, 386/n
